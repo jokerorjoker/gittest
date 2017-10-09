@@ -29,7 +29,7 @@ import android.widget.Toast;
 public class PayDemoActivity extends FragmentActivity {
 	
 	/** 支付宝支付业务：入参app_id */
-	public static final String APPID = "";
+	public static final String APPID = "63574653468";
 	
 	/** 支付宝账户登录授权业务：入参pid值 */
 	public static final String PID = "";
